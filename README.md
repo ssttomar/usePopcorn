@@ -1,3 +1,6 @@
+# Application Preview
+![Screenshot (12)](https://github.com/ssttomar/usePopcorn/assets/92167540/6744194e-d97c-469d-ad58-accf8402b626)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
